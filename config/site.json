@@ -1,8 +1,8 @@
 {
-  "userPrincipalName": "spencer.woo@outlook.com",
+  "userPrincipalName": "MuRongPIG@m1j8.onmicrosoft.com",
   "icon": "/icons/128.png",
   "title": "Spencer's OneDrive",
-  "baseDirectory": "/Public",
+  "baseDirectory": "/",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
